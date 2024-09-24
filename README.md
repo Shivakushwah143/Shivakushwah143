@@ -47,10 +47,10 @@
     </style>
 </head>
 <body>
-    <h1>My To-Do List</h1>
+    <h1>well come</h1>
     <ul id="todo-list"></ul>
     <input type="text" id="new-todo" placeholder="Add a new task">
-    <button id="add-button">Add</button>
+    <button id="add-button">connect</button>
     <script>
         const todoList = document.getElementById('todo-list');
         const newTodoInput = document.getElementById('new-todo');
