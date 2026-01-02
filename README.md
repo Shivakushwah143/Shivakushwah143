@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Mastering fulstack**
 
-- 💬 Ask me about **Mern**
+- 💬 Ask me about **full stack radis kafka orm odm gen ai**
 
 - 📫 How to reach me **shivakushwah144@gmail.com**
 
