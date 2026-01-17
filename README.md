@@ -1,18 +1,56 @@
-<h3 align="center">A passionate fullstack developer from Indore india</h3>
 
-- 🔭 I’m currently working on **E commerce project**
-
-- 🌱 I’m currently learning **Mastering fulstack**
-
-- 💬 Ask me about **full stack radis kafka orm odm gen ai**
-
-- 📫 How to reach me **shivakushwah144@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/abhay.. 123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhay.. 123" height="30" width="40" /></a>
+<p align="center">
+  <img 
+    src="https://i.pinimg.com/736x/d2/e0/b0/d2e0b08a7a7727e63b1820ee036778f9.jpg" 
+    alt="Tobi" 
+    style="border-radius: 50px; width: 100%;" 
+  />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### Hi, I'm shiva  
 
+Full Stack Web Developer interested in building real, usable web applications. I enjoy learning by doing and working closely with others to solve meaningful
+
+
+
+### 🚀 Fun Fact 
+When I’m not in dev mode you’ll find me reading exploring about ai and new technologies, or watching anime  ⚽❤️
+
+
+
+---
+
+### ⚙️ Tech Stack
+
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma" />
+
+**Backend & Database**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma" />
+
+**Others**  
+<img src="https://skillicons.dev/icons?i=docker" />
+<img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" />
+  
+---
+
+### 📲 Socials (Most Active on Twitter)
+
+<div align="left">
+    <a href="[https://twitter.com/Vineet2OP](https://x.com/Shivakushwa2004)" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" title="Twitter" />
+  </a>
+  
+  <a href="https://www.vineetop.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" title="Portfolio" />
+  </a>
+
+
+  <a href="https://www.linkedin.com/in/shiva-kushwah-53a095297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" title="LinkedIn" />
+  </a>
+
+  <a href="shivakushwah144@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" title="Email Me" />
+  </a>
+</div>
