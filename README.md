@@ -23,13 +23,13 @@ When I’m not in dev mode you’ll find me reading exploring about ai and new t
 ### ⚙️ Tech Stack
 
 **Frontend**  
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma" />
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,prisma,html,css,js" />
 
 **Backend & Database**  
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,redis,kafka" />
 
 **Others**  
-<img src="https://skillicons.dev/icons?i=docker" />
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp" />
 <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" />
   
 ---
@@ -41,10 +41,6 @@ When I’m not in dev mode you’ll find me reading exploring about ai and new t
     <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" title="Twitter" />
   </a>
   
-  <a href="https://www.vineetop.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" title="Portfolio" />
-  </a>
-
 
   <a href="https://www.linkedin.com/in/shiva-kushwah-53a095297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" title="LinkedIn" />
