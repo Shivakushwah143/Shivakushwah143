@@ -26,10 +26,10 @@ When I’m not in dev mode you’ll find me reading exploring about ai and new t
 <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,prisma,html,css,js" />
 
 **Backend & Database**  
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,redis,kafka" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,redis,kafka,bun" />
 
 **Others**  
-<img src="https://skillicons.dev/icons?i=docker,aws,gcp" />
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp," />
 <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" />
   
 ---
