@@ -8,10 +8,9 @@
 
 ## Hi, I’m Shiva 👋
 
-I’m a **Full-Stack Web Developer** with a strong focus on **backend systems**.  
-I enjoy building **real, production-ready applications**—clean APIs, predictable data models, and systems that scale without becoming fragile.
-
-I learn best by **building things end-to-end**, debugging real problems, and improving systems one iteration at a time.
+I’m a **Full-Stack Web Developer** 
+building from zero
+I build from zero. Whether it's frontend, backend, full-stack applications, or AI-powered experiences, I work across the entire development lifecycle. From UI/UX to deployment to user feedback, I care less about technology debates and more about delivering results that people love using.
 
 ---
 
